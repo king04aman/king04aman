@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Kumar
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java and Cpp.
+- 👀 I’m interested in development.
+- 🌱 I’m currently learning Cpp.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me on [Twitter](https://twitter.com/king04aman) or [Instagram](https://instagram.com/king04aman)
 
