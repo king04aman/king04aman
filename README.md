@@ -3,6 +3,7 @@
 	<img src="/assets/animation.gif" alt="Banner">
 </p>
 
+<p align="center">
 <a href="https://twitter.com/king04aman">
   <img align="left" alt="amans's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
@@ -24,7 +25,6 @@
 <a href="https://www.hackerrank.com/king04aman">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=king04aman&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 <br><br>
