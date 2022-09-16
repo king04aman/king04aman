@@ -24,12 +24,10 @@
 <a href="https://www.hackerrank.com/king04aman">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=king04aman&label=Profile%20views&color=0e75b6&style=flat"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=king04aman&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 <br><br>
-
-
-
-
 
 ## <p align="center">
 <h4 align="center"><samp> A Software Developer, A Open Source Contributor, Cloud Architecture ☁  &  A CyberSec Enthusiast </samp></h4></p>
@@ -56,8 +54,6 @@
 - 👨🏻‍💻 Head Coordinator at Web-App Research Group CSE, Galgotias University (Nov, 2021 - Present) .<br>
 - ☁  Amazon Web Services virtual cloud intern (July, 2022 - Sep 2022) <br>
 </div>
-
-
 
 <p align="center">
   <img src="/assets/snake.svg">             
@@ -140,6 +136,5 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=king04aman&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
-
 
 ![Aman Kumar](/assets/footer.svg)
