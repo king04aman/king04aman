@@ -33,7 +33,7 @@
 <h4 align="center"><samp> A Software Developer, A Open Source Contributor, Cloud Architecture ☁  &  A CyberSec Enthusiast </samp></h4></p>
 
 <div>
-<img align="right" src="/assets/funny.gif" width="40%"/>
+<img align="right" src="/assets/coder.gif" width="40%"/>
   <br>
 
 - 👨‍🎓 <samp><b>Masters of Computer Application from Galgotias University, Greater Noida</b>
