@@ -127,13 +127,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=keylogger&show_icons=true&theme=tokyonight" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/king04aman/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=phishing&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=SDE-DSA-Preparation&show_icons=true&theme=tokyonight" />
 </a><br/>
 <a href="https://github.com/king04aman/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=keylogger&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=phishing&show_icons=true&theme=tokyonight" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/king04aman/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=phishing&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=hacktoberfest2022&show_icons=true&theme=tokyonight" />
 </a><br/>
 </div> 
 
