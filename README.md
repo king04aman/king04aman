@@ -49,12 +49,12 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 🔬 <b>Ex-Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)</b><br>
+- 🕵🏻 <b> Web-developer inter at MS Esports. (Feb 2022, July 2022) </b><br>
 - 🕵🏻 <b>Summer Intern at Modelling Cops (May, 2020 - Aug 2020) </b><br>
 - 👨🏾‍💻 <b>Web-Developer Intern at MS Esports (Feb 2022 - July 2022)</b><br>
-- ✍🏻 Core Member of IIC Technical Committee, Galgotias University (Apr 2022 - Present)<br>
-- 👨🏻‍💻 Head Coordinator at Web-App Research Group CSE, Galgotias University (Nov, 2021 - Present) .<br>
-- ☁  Amazon Web Services virtual cloud intern (July, 2022 - Sep 2022) <br>
+- ✍🏻 <b>Core Member of IIC Technical Committee, Galgotias University (Apr 2022 - Present)<b><br>
+- 👨🏻‍💻 <b>Student Coordinator at Web-App Research Group SCSE, Galgotias University (Nov, 2021 - Present).<b><br>
+- ☁  <b>Amazon Web Services virtual cloud intern (July, 2022 - Sep 2022) <b><br>
 </div>
 
 <p align="center">
