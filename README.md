@@ -38,9 +38,9 @@
 <img align="right" src="/assets/coder.gif" width="40%"/>
   <br>
 
-- 👨‍🎓 <samp><b>Masters of Computer Application from Galgotias University, Greater Noida</b>
-- 🔭 <samp>Bachelor's in Computer Application from Patliputra University, Patna 
 - 🧑🏽 <samp><b>Founder of Esportzvio (July 2022 - Present)</b>
+- 👨‍🎓 <samp><b>Masters of Computer Application from Galgotias University.</b>
+- 🔭 <samp>Bachelor's in Computer Application from Patliputra University. 
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about DSA/Cloud Computing/Cloud Architecture/Cyber Security
 - 🤔 <samp>I’m looking for help with how to excel in Data Structure and Algorithm.
