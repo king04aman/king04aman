@@ -45,7 +45,6 @@
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about DSA/Cloud Computing/Cloud Architecture/Cyber Security
 - 🤔 <samp>I’m looking for help with how to excel in Data Structure and Algorithm.
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 </div>
 
 <div>
