@@ -22,13 +22,12 @@
 <a href="https://www.youtube.com/channel/UC4K4qOPvfPslxXZKjhjJhGg?sub_confirmation=1">
   <img align="left" alt="aman's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
-<a href="https://www.coursera.org/user/765cffad2e57fd8d892d2936862a92d2">
-  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-</a>
 <a href="https://www.hackerrank.com/king04aman">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
+<a href="https://github.com/king04aman">
   <img src="https://komarev.com/ghpvc/?username=king04aman&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</a>
 </p>
 <br><br>
 
