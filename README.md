@@ -1,6 +1,7 @@
 <p align="center">
 	<img src="/assets/header.jpg" alt="Banner">
 	<img src="/assets/animation.gif" alt="Banner">
+
 <a href="https://holopin.io/@king04aman">
     <img src="https://holopin.io/api/user/board?user=king04aman" />
 </a>
@@ -113,6 +114,7 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=king04aman&theme=github_dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=king04aman&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=king04aman&theme=github-dark-blue&hide_border=true" />
+    <img width="40%" src="https://leetcode.card.workers.dev/king04aman?theme=dark&font=baloo&extension=null&border=2&border_radius=8">
     <img src="https://activity-graph.herokuapp.com/graph?username=king04aman&theme=react-dark" />
 </a>
 </p>
