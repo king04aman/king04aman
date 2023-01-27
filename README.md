@@ -33,7 +33,7 @@
 <br><br>
 
 ## <p align="center">
-<h4 align="center"><samp> A Software Developer, A Open Source Contributor, Cloud Architecture ☁  &  A CyberSec Enthusiast </samp></h4></p>
+<h4 align="center"><samp>A Software Developer, an Open-Source Contributor, Cloud Engineer and a Cyber-Security enthusiast </samp></h4></p>
 
 <div>
 <img align="right" src="/assets/coder.gif" width="40%"/>
@@ -49,20 +49,17 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 🕵🏻 <b> Web-developer inter at MS Esports. (Feb 2022, July 2022) </b><br>
-- 🕵🏻 <b>Summer Intern at Modelling Cops (May, 2020 - Aug 2020) </b><br>
-- 👨🏾‍💻 <b>Web-Developer Intern at MS Esports (Feb 2022 - July 2022)</b><br>
-- ✍🏻 <b>Core Member of IIC Technical Committee, Galgotias University (Apr 2022 - Present)<b><br>
+- 👨🏾‍💻 <b>Web Developer intern at MS Esports (Feb, 2022 - July, 2022)</b><br>
+- ☁  <b>Amazon Web Services virtual cloud intern (July, 2022 - Sep, 2022) <b><br>
+- 🕵🏻 <b>Software Engineer intern at Modelling Cops (July, 2021 - Dec, 2021) </b><br>
+- ✍🏻 <b>Core Member of IIC Technical Committee, Galgotias University (Apr, 2022 - Present)<b><br>
 - 👨🏻‍💻 <b>Student Coordinator at Web-App Research Group SCSE, Galgotias University (Nov, 2021 - Present).<b><br>
-- ☁  <b>Amazon Web Services virtual cloud intern (July, 2022 - Sep 2022) <b><br>
 </div>
 
 <p align="center">
   <img src="/assets/snake.svg">             
   <img src="/assets/line.gif">             
 </p>
-
-<!-- TODO: Need to update Tech Stacks-->
 
 ## 🛠 &nbsp;Tech Stack:
 
