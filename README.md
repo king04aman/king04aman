@@ -15,18 +15,6 @@
   <img align="left" alt="aman's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/king04aman">
-  <img align="left" alt="aman's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/king04aman/">
-  <img align="left" alt="aman's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UC4K4qOPvfPslxXZKjhjJhGg?sub_confirmation=1">
-  <img align="left" alt="aman's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/king04aman">
-  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
-</a>
-<a href="https://github.com/king04aman">
   <img src="https://komarev.com/ghpvc/?username=king04aman&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </a>
 </p>
@@ -39,21 +27,12 @@
 <img align="right" src="/assets/coder.gif" width="40%"/>
   <br>
 
-- 🧑🏽 <samp><b>Founder of Esportzvio (July 2022 - Present)</b>
-- 👨‍🎓 <samp><b>Masters of Computer Application from Galgotias University.</b>
-- 🔭 <samp>Bachelor's in Computer Application from Patliputra University. 
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about DSA/Cloud Computing/Cloud Architecture/Cyber Security
-- 🤔 <samp>I’m looking for help with how to excel in Data Structure and Algorithm.
-</div>
-
-<div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👨🏾‍💻 <b>Web Developer intern at MS Esports (Feb, 2022 - July, 2022)</b><br>
-- ☁  <b>Amazon Web Services virtual cloud intern (July, 2022 - Sep, 2022) <b><br>
-- 🕵🏻 <b>Software Engineer intern at Modelling Cops (July, 2021 - Dec, 2021) </b><br>
-- ✍🏻 <b>Core Member of IIC Technical Committee, Galgotias University (Apr, 2022 - Present)<b><br>
-- 👨🏻‍💻 <b>Student Coordinator at Web-App Research Group SCSE, Galgotias University (Nov, 2021 - Present).<b><br>
+- 🧑🏽 <b>Founder of Esportzvio (July 2022 - Present)</b><br>
+- ☁  <b>Amazon Web Services Virtual Cloud Intern (July, 2022 - Sep, 2022) <b><br>
+- 🕵🏻 <b>Software Engineer Intern at Modelling Cops (July, 2021 - Dec, 2021) </b><br>
+- 💬 <b>Ask me about DSA/Cloud Computing/Cloud Architecture/Cyber Security</b><br>
+- 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br>
 </div>
 
 <p align="center">
@@ -132,13 +111,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=keylogger&show_icons=true&theme=tokyonight" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/king04aman/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=SDE-DSA-Preparation&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=CyberSecurity-Tools&show_icons=true&theme=tokyonight" />
 </a><br/>
 <a href="https://github.com/king04aman/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=phishing&show_icons=true&theme=tokyonight" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/king04aman/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=hacktoberfest2022&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=king04aman&repo=All-In-One-Python-Projects&show_icons=true&theme=tokyonight" />
 </a><br/>
 </div> 
 
