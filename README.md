@@ -21,18 +21,19 @@
 <br><br>
 
 ## <p align="center">
-<h4 align="center"><samp>A Software Developer, an Open-Source Contributor, Cloud Engineer and a Cyber-Security enthusiast </samp></h4></p>
+<h4 align="center"><samp>Software Engineer, Open-Source Contributor, and Cyber-Security Enthusiast</samp></h4></p>
 
 <div>
 <img align="right" src="/assets/coder.gif" width="40%"/>
   <br>
 
-<h3><b><samp>Experiences:</samp></b></h3>
-- 🧑🏽 <b>Founder of Esportzvio (July 2022 - Present)</b><br>
-- ☁  <b>Amazon Web Services Virtual Cloud Intern (July, 2022 - Sep, 2022) <b><br>
-- 🕵🏻 <b>Software Engineer Intern at Modelling Cops (July, 2021 - Dec, 2021) </b><br>
-- 💬 <b>Ask me about DSA/Cloud Computing/Cloud Architecture/Cyber Security</b><br>
-- 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br>
+<h3><b><samp>Experience:</samp></b></h3>
+- 🕵🏻 <b>Active contributor to open-source projects</b><br>
+- ☁  <b>Experience with cloud technologies and services</b><br>
+- 🧑🏽 <b>Software Engineer with 2+ years of experience in diverse technologies</b><br>
+- 🛠️ <b>Proficient in SAP technologies including ABAP, CPI, APIM, BTP, SAP Build</b><br>
+- 💬 <b>Ask me about Software Engineering, SAP Technologies, Open Source, Cyber-Security, and Cloud Computing</b><br>
+- 🤔 <b>Seeking opportunities to deepen expertise in Software Engineering and contribute to impactful projects</b><br>
 </div>
 
 <p align="center">
@@ -41,6 +42,87 @@
 </p>
 
 ## 🛠 &nbsp;Tech Stack:
+
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=appwrite" height="40" alt="appwrite logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=ipfs" height="40" alt="ipfs logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
+</div>
 
 <p align="center">
   <img src="/assets/tools.png">             
