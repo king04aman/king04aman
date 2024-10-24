@@ -18,7 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=king04aman&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </a>
 </p>
-<br><br>
 
 ## <p align="center">
 <p align="center">
