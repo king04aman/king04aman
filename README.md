@@ -21,11 +21,15 @@
 <br><br>
 
 ## <p align="center">
+<p align="center">
+  <img src="/assets/tools.png">             
+</p>
+
 <h4 align="center"><samp>Software Engineer, Open-Source Contributor, and Cyber-Security Enthusiast</samp></h4></p>
 
 <div>
 <img align="right" src="/assets/coder.gif" width="40%"/>
-  <br>
+<br>
 
 <h3><b><samp>Experience:</samp></b></h3>
 - 🕵🏻 <b>Active contributor to open-source projects</b><br>
@@ -124,9 +128,6 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
 </div>
 
-<p align="center">
-  <img src="/assets/tools.png">             
-</p>
 
 ### 💻 &nbsp;Languages:
 
